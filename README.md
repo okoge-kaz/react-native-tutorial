@@ -6,7 +6,7 @@ Swift, Kotolinに比べて、性能面で劣ることが多い。
 Expoというフレームワーク・プラットフォームを用いることで、TypeScript + Reactでアプリケーションを作成できるようになる。
 
 Link: https://expo.dev/
-
+資料: https://speakerdeck.com/kou1127h/ji-yu-ji-2022mian-qiang-hui-zi-liao?slide=14
 ## start commmads
 
 ```
